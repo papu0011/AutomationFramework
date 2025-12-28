@@ -17,6 +17,9 @@ public class loginTest {
 		wd.close();
 		wd.close();
 		wd.getPageSource();
+		wd.getPageSource();
+		wd.getPageSource();
+		
 
 	}
 
