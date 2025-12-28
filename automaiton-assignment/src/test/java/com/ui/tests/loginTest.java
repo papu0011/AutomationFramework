@@ -16,6 +16,7 @@ public class loginTest {
 		wd.findElement(signInLinkLocator);
 		wd.close();
 		wd.close();
+		wd.getPageSource();
 
 	}
 
